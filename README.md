@@ -1,6 +1,5 @@
 # OnlineShopping By Django
-<h1 align="center">Online Shopping</h1>
-<h1 align="center">Desccription</h1>
+# Description
 ## This is an e-commerce site and that look pretty cool.Its very much  friendly for customer user.
 # This project made by:
 ## Django
